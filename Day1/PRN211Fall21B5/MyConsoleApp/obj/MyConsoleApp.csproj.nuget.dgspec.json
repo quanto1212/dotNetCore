@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PRN211\\Console\\Day1\\PRN211Fall21B5\\MyConsoleApp\\MyConsoleApp.csproj": {}
+  },
+  "projects": {
+    "D:\\PRN211\\Console\\Day1\\PRN211Fall21B5\\ConsoleApp2\\ConsoleApp2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PRN211\\Console\\Day1\\PRN211Fall21B5\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectName": "ConsoleApp2",
+        "projectPath": "D:\\PRN211\\Console\\Day1\\PRN211Fall21B5\\ConsoleApp2\\ConsoleApp2.csproj",
+        "packagesPath": "C:\\Users\\Coc Vang\\.nuget\\packages\\",
+        "outputPath": "D:\\PRN211\\Console\\Day1\\PRN211Fall21B5\\ConsoleApp2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Coc Vang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PRN211\\Console\\Day1\\PRN211Fall21B5\\MyConsoleApp\\MyConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PRN211\\Console\\Day1\\PRN211Fall21B5\\MyConsoleApp\\MyConsoleApp.csproj",
+        "projectName": "MyConsoleApp",
+        "projectPath": "D:\\PRN211\\Console\\Day1\\PRN211Fall21B5\\MyConsoleApp\\MyConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Coc Vang\\.nuget\\packages\\",
+        "outputPath": "D:\\PRN211\\Console\\Day1\\PRN211Fall21B5\\MyConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Coc Vang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\PRN211\\Console\\Day1\\PRN211Fall21B5\\ConsoleApp2\\ConsoleApp2.csproj": {
+                "projectPath": "D:\\PRN211\\Console\\Day1\\PRN211Fall21B5\\ConsoleApp2\\ConsoleApp2.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

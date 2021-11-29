@@ -1,0 +1,16 @@
+D:\PRN211\Console\Day1\Day1\bin\Debug\net5.0\Day1.exe
+D:\PRN211\Console\Day1\Day1\bin\Debug\net5.0\Day1.deps.json
+D:\PRN211\Console\Day1\Day1\bin\Debug\net5.0\Day1.runtimeconfig.json
+D:\PRN211\Console\Day1\Day1\bin\Debug\net5.0\Day1.runtimeconfig.dev.json
+D:\PRN211\Console\Day1\Day1\bin\Debug\net5.0\Day1.dll
+D:\PRN211\Console\Day1\Day1\bin\Debug\net5.0\ref\Day1.dll
+D:\PRN211\Console\Day1\Day1\bin\Debug\net5.0\Day1.pdb
+D:\PRN211\Console\Day1\Day1\obj\Debug\net5.0\Day1.csproj.AssemblyReference.cache
+D:\PRN211\Console\Day1\Day1\obj\Debug\net5.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Console\Day1\Day1\obj\Debug\net5.0\Day1.AssemblyInfoInputs.cache
+D:\PRN211\Console\Day1\Day1\obj\Debug\net5.0\Day1.AssemblyInfo.cs
+D:\PRN211\Console\Day1\Day1\obj\Debug\net5.0\Day1.csproj.CoreCompileInputs.cache
+D:\PRN211\Console\Day1\Day1\obj\Debug\net5.0\Day1.dll
+D:\PRN211\Console\Day1\Day1\obj\Debug\net5.0\ref\Day1.dll
+D:\PRN211\Console\Day1\Day1\obj\Debug\net5.0\Day1.pdb
+D:\PRN211\Console\Day1\Day1\obj\Debug\net5.0\Day1.genruntimeconfig.cache
